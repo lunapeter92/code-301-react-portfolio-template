@@ -88,12 +88,12 @@ class Hero extends React.Component {
                       <small className="text-white font-weight-bold mb-0 mr-2">
                         *proudly coded by
                       </small>
-                      <img
+                      {/* <img
                         alt="..."
                         className="ml-1"
                         style={{ height: "28px" }}
                         src={creative}
-                      />
+                      /> */}
                     </div>
                   </Col>
                 </Row>
